@@ -1,0 +1,2 @@
+345612,Pepe,Peres,Gaturras,34,Masculino,Colonia Ruber Figueroa calle Colturbias,7569873275,Conserje,Limpiexa,40,100.0,4000.0
+983454,Fernanda,Gonzales,Cabrera,45,Femenino,Col Guanajuato MaresAzul,7562345876,Secretaria,Administracion,40,200.0,8000.0
